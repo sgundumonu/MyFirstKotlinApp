@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirstKotlinApp</string>
+    <string name="welcome_message">%s,\n Welcome to GDG meetup</string>
+</resources>
